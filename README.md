@@ -1,4 +1,4 @@
-# 📱 Profile Deliverable
+# 📱 Profile
 
 Tugas ini merupakan implementasi sederhana aplikasi Android **Student Profile** menggunakan **Kotlin + XML + Material Design 3**.  
 Aplikasi menampilkan profil mahasiswa, ringkasan akademik (Semester, SKS, IPK), biodata, link kontak, serta pencapaian.  
