@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Profile</string>
+
+    <string name="student_name">Della Nurizki</string>
+    <string name="student_email">delaaaanr@gmail.com</string>
+
+    <string name="label_nim">NIM</string>
+    <string name="value_nim">221234567</string>
+
+    <string name="label_origin">Daerah Asal</string>
+    <string name="value_origin">Pangkalpinang, Bangka</string>
+
+    <string name="label_study">Program Studi</string>
+    <string name="value_study">Teknologi Rekayasa Perangkat LunaK</string>
+
+    <string name="label_links">LinkedIn</string>
+    <string name="value_links">https://della.dev</string>
+
+    <string name="label_hobby">Hobi</string>
+    <string name="value_hobby">Membaca novel, memasak, dan mendengar lagu surf rock.</string>
+
+    <string name="label_quote">Quote Favorit</string>
+    <string name="value_quote">Practice yourself, for heaven’s sake in little things, and then proceed to greater.</string>
+</resources>
